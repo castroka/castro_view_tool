@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+CastroViewTool::Renderer.copyright 'Kalista Castro', 'All rights reserved'
+```
 
 ## Development
 

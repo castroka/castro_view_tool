@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Various view specific methods for applications I use.}
   spec.description   = %q{Provides generates HTML data for Rails application.}
-  spec.homepage      = "https://github.com/castroka/devcamp-portfolio"
+  spec.homepage      = "https://github.com/castroka/castro_view_tool"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
